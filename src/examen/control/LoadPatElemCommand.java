@@ -1,4 +1,4 @@
-package examen.app;
+package examen.control;
 
 import examen.control.Command;
 import examen.view.CatalogueDisplay;

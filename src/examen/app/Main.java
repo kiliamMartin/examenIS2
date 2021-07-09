@@ -1,5 +1,6 @@
 package examen.app;
 
+import examen.control.LoadPatElemCommand;
 import examen.control.Command;
 import examen.control.NullCommand;
 import examen.control.SelectTypeCommand;
